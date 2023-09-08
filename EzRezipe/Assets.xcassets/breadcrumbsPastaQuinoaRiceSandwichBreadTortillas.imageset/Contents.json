@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "breadcrumbsPastaQuinoaRiceSandwichBreadTortillas.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "breadcrumbsPastaQuinoaRiceSandwichBreadTortillas@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "breadcrumbsPastaQuinoaRiceSandwichBreadTortillas@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
